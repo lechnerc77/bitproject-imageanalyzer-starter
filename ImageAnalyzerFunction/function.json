@@ -1,0 +1,11 @@
+{
+  "bindings": [
+    {
+      "name": "businessCardImage",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "imageanalyzer/{name}",
+      "connection": "AZURE_STORAGE_CONNECTION_STRING"
+    }
+  ]
+}

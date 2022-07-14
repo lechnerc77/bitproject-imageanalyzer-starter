@@ -1,0 +1,7 @@
+###
+POST http://localhost:7071/api/StorageProcessor
+
+{
+    "url": "https://s3-external-1.amazonaws.com/media.twiliocdn.com/ACa8f74b34174b5d9b3380c97c0988885a/66ce2640cde12f6619fe01b0255f944d",
+    "picname": "BusinessCardImage"
+}
